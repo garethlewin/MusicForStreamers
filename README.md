@@ -18,6 +18,7 @@ Music with copyright but licensed for streamers and video creators
 * Zircon http://zirconmusic.com/the-zircon-vault/
 * Hit Box Team http://dustforce.com/terms
 * Chipzel http://news.chipzel.co.uk/streaming-permissions/
+* C418 http://c418.org/?p=281
 
 Easy to license music
 
