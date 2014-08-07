@@ -22,6 +22,7 @@ Music with copyright but licensed for streamers and video creators
 Easy to license music
 
 * Many songs on http://www.jamendo.com/en/ can be licensed
+* Monstercat http://monster.cat/TwitchRequest
 
 
 Please submit pull requests with additional sources
